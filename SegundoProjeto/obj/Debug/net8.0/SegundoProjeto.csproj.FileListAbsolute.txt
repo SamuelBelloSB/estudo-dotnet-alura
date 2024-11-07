@@ -1,0 +1,15 @@
+D:\estudosTi\alura\estudo-dotnet-alura\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.exe
+D:\estudosTi\alura\estudo-dotnet-alura\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.deps.json
+D:\estudosTi\alura\estudo-dotnet-alura\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.runtimeconfig.json
+D:\estudosTi\alura\estudo-dotnet-alura\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.dll
+D:\estudosTi\alura\estudo-dotnet-alura\SegundoProjeto\bin\Debug\net8.0\SegundoProjeto.pdb
+D:\estudosTi\alura\estudo-dotnet-alura\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudosTi\alura\estudo-dotnet-alura\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.AssemblyInfoInputs.cache
+D:\estudosTi\alura\estudo-dotnet-alura\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.AssemblyInfo.cs
+D:\estudosTi\alura\estudo-dotnet-alura\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.csproj.CoreCompileInputs.cache
+D:\estudosTi\alura\estudo-dotnet-alura\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.sourcelink.json
+D:\estudosTi\alura\estudo-dotnet-alura\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.dll
+D:\estudosTi\alura\estudo-dotnet-alura\SegundoProjeto\obj\Debug\net8.0\refint\SegundoProjeto.dll
+D:\estudosTi\alura\estudo-dotnet-alura\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.pdb
+D:\estudosTi\alura\estudo-dotnet-alura\SegundoProjeto\obj\Debug\net8.0\SegundoProjeto.genruntimeconfig.cache
+D:\estudosTi\alura\estudo-dotnet-alura\SegundoProjeto\obj\Debug\net8.0\ref\SegundoProjeto.dll

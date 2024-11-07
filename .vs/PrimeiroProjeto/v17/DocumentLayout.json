@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\estudosTi\\alura\\estudo-dotnet-alura\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E993A14E-92ED-475D-A30C-34815E253716}|SegundoProjeto\\SegundoProjeto.csproj|d:\\estudosti\\alura\\estudo-dotnet-alura\\segundoprojeto\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E993A14E-92ED-475D-A30C-34815E253716}|SegundoProjeto\\SegundoProjeto.csproj|solutionrelative:segundoprojeto\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E993A14E-92ED-475D-A30C-34815E253716}|SegundoProjeto\\SegundoProjeto.csproj|d:\\estudosti\\alura\\estudo-dotnet-alura\\segundoprojeto\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E993A14E-92ED-475D-A30C-34815E253716}|SegundoProjeto\\SegundoProjeto.csproj|solutionrelative:segundoprojeto\\banda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E993A14E-92ED-475D-A30C-34815E253716}|SegundoProjeto\\SegundoProjeto.csproj|d:\\estudosti\\alura\\estudo-dotnet-alura\\segundoprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E993A14E-92ED-475D-A30C-34815E253716}|SegundoProjeto\\SegundoProjeto.csproj|solutionrelative:segundoprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E993A14E-92ED-475D-A30C-34815E253716}|SegundoProjeto\\SegundoProjeto.csproj|d:\\estudosti\\alura\\estudo-dotnet-alura\\segundoprojeto\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E993A14E-92ED-475D-A30C-34815E253716}|SegundoProjeto\\SegundoProjeto.csproj|solutionrelative:segundoprojeto\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Musica.cs",
+              "DocumentMoniker": "D:\\estudosTi\\alura\\estudo-dotnet-alura\\SegundoProjeto\\Musica.cs",
+              "RelativeDocumentMoniker": "SegundoProjeto\\Musica.cs",
+              "ToolTip": "D:\\estudosTi\\alura\\estudo-dotnet-alura\\SegundoProjeto\\Musica.cs",
+              "RelativeToolTip": "SegundoProjeto\\Musica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T17:02:51.073Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\estudosTi\\alura\\estudo-dotnet-alura\\SegundoProjeto\\Program.cs",
+              "RelativeDocumentMoniker": "SegundoProjeto\\Program.cs",
+              "ToolTip": "D:\\estudosTi\\alura\\estudo-dotnet-alura\\SegundoProjeto\\Program.cs",
+              "RelativeToolTip": "SegundoProjeto\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:50:43.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Banda.cs",
+              "DocumentMoniker": "D:\\estudosTi\\alura\\estudo-dotnet-alura\\SegundoProjeto\\Banda.cs",
+              "RelativeDocumentMoniker": "SegundoProjeto\\Banda.cs",
+              "ToolTip": "D:\\estudosTi\\alura\\estudo-dotnet-alura\\SegundoProjeto\\Banda.cs",
+              "RelativeToolTip": "SegundoProjeto\\Banda.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:45:25.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Album.cs",
+              "DocumentMoniker": "D:\\estudosTi\\alura\\estudo-dotnet-alura\\SegundoProjeto\\Album.cs",
+              "RelativeDocumentMoniker": "SegundoProjeto\\Album.cs",
+              "ToolTip": "D:\\estudosTi\\alura\\estudo-dotnet-alura\\SegundoProjeto\\Album.cs",
+              "RelativeToolTip": "SegundoProjeto\\Album.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:50:14.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\estudosTi\alura\estudo-dotnet-alura\Desafio001\bin\Debug\net6.0\Desafio001.exe
+D:\estudosTi\alura\estudo-dotnet-alura\Desafio001\bin\Debug\net6.0\Desafio001.deps.json
+D:\estudosTi\alura\estudo-dotnet-alura\Desafio001\bin\Debug\net6.0\Desafio001.runtimeconfig.json
+D:\estudosTi\alura\estudo-dotnet-alura\Desafio001\bin\Debug\net6.0\Desafio001.dll
+D:\estudosTi\alura\estudo-dotnet-alura\Desafio001\bin\Debug\net6.0\Desafio001.pdb
+D:\estudosTi\alura\estudo-dotnet-alura\Desafio001\obj\Debug\net6.0\Desafio001.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudosTi\alura\estudo-dotnet-alura\Desafio001\obj\Debug\net6.0\Desafio001.AssemblyInfoInputs.cache
+D:\estudosTi\alura\estudo-dotnet-alura\Desafio001\obj\Debug\net6.0\Desafio001.AssemblyInfo.cs
+D:\estudosTi\alura\estudo-dotnet-alura\Desafio001\obj\Debug\net6.0\Desafio001.csproj.CoreCompileInputs.cache
+D:\estudosTi\alura\estudo-dotnet-alura\Desafio001\obj\Debug\net6.0\Desafio001.sourcelink.json
+D:\estudosTi\alura\estudo-dotnet-alura\Desafio001\obj\Debug\net6.0\Desafio001.dll
+D:\estudosTi\alura\estudo-dotnet-alura\Desafio001\obj\Debug\net6.0\refint\Desafio001.dll
+D:\estudosTi\alura\estudo-dotnet-alura\Desafio001\obj\Debug\net6.0\Desafio001.pdb
+D:\estudosTi\alura\estudo-dotnet-alura\Desafio001\obj\Debug\net6.0\Desafio001.genruntimeconfig.cache
+D:\estudosTi\alura\estudo-dotnet-alura\Desafio001\obj\Debug\net6.0\ref\Desafio001.dll
